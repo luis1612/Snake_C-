@@ -1,0 +1,8 @@
+c:\users\satur\documents\visual studio 2015\Projects\snake3\snake3\bin\Release\snake3.exe.config
+c:\users\satur\documents\visual studio 2015\Projects\snake3\snake3\bin\Release\snake3.exe
+c:\users\satur\documents\visual studio 2015\Projects\snake3\snake3\bin\Release\snake3.pdb
+c:\users\satur\documents\visual studio 2015\Projects\snake3\snake3\obj\Release\snake3.Form1.resources
+c:\users\satur\documents\visual studio 2015\Projects\snake3\snake3\obj\Release\snake3.Properties.Resources.resources
+c:\users\satur\documents\visual studio 2015\Projects\snake3\snake3\obj\Release\snake3.csproj.GenerateResource.Cache
+c:\users\satur\documents\visual studio 2015\Projects\snake3\snake3\obj\Release\snake3.exe
+c:\users\satur\documents\visual studio 2015\Projects\snake3\snake3\obj\Release\snake3.pdb
